@@ -1,17 +1,17 @@
 .cor{
-	background-color: #41a2ef;
+	background-color:#F8F195;
 	text-decoration: none;
 }
 
 
 .fundoazul{
-  background-color: #41a2ef;
+  background-color: #F8F195;
   margin-top: 50px;
 }
 /*arquivo css começa aqui*/
 
 #ba1 {
-  background-color: #41a2ef;
+  background-color: #F8F195;
 }
 
 #ba1-img{
@@ -37,7 +37,7 @@ p.carousel-inner{
 
 #banner-texto{
 
- color:white;
+ color: black;
  margin-top: 15%;
 }
 
@@ -361,7 +361,7 @@ a.left.carousel-control, a.right.carousel-control {
 .navbar-custom.affix .navbar-brand {
   margin: 0px;  
   padding: 13px 0px 0px 15px;
-  color: #fff; 
+  color: black; 
   font: 600 22px/1em "Raleway", sans-serif;
   text-decoration: none;
 }
@@ -369,7 +369,7 @@ a.left.carousel-control, a.right.carousel-control {
 
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #fff;
+  background-color: black;
   color: #606060;
 }
 
@@ -378,7 +378,7 @@ a.left.carousel-control, a.right.carousel-control {
   margin: 7px 15px 0px 0px;
   padding-top: 7px;
   padding-bottom: 7px;
-  border-color: #fff;
+  border-color: black;
   background-color: transparent;
   color: #fff;
   font: 500 12px/19px "Poppins", sans-serif; 
@@ -387,7 +387,7 @@ a.left.carousel-control, a.right.carousel-control {
 
 .navbar-custom.affix-top .nav li a,
 .navbar-custom.affix .nav li a {
-  color: #fff;
+  color: black;
   opacity: 0.7;
   text-decoration: none; 
   padding-top: 4px;
@@ -411,7 +411,7 @@ a.left.carousel-control, a.right.carousel-control {
 .navbar-custom.affix .nav li.active a {
   opacity: 1;
   background: none;
-  color: #fff;
+  color: black;
 }
 
 
@@ -1108,12 +1108,12 @@ header .header-content .call-to-action .header-buttons a:hover.button-large-soli
 #our-team {
   padding-top: 60px;
   padding-bottom: 70px;
-  background-color: #41a2ef;
+  background-color: #F8F195;
 }
 
 #our-team h1 {
   margin-bottom: 0px;
-  color: #fff; 
+  color: black; 
 }
 
 #our-team .team-members {
@@ -1129,7 +1129,7 @@ header .header-content .call-to-action .header-buttons a:hover.button-large-soli
 
 #our-team .team-members p {
   margin-top: 15px;
-  color: #fff; 
+  color: black; 
 }
 
 #our-team .team-members p .job-title {
@@ -1361,8 +1361,8 @@ a:hover.back-to-top {
   
 
   .navbar-custom.affix .navbar-brand.img-logo img {
-    width: 98px;
-    height: 31px;
+    width: 38px;
+    height: 38px;
   }
   
   .navbar-custom.affix .navbar-brand.img-logo {
@@ -1383,7 +1383,7 @@ a:hover.back-to-top {
       
   .navbar-custom.affix {
     padding: 0px;
-    background-color: #41a2ef;
+    background-color: #F8F195;
   }
 
   .navbar-custom.affix-top .nav li a {
